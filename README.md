@@ -1,1 +1,2 @@
-# UAB sveikatos centras GILĖS
+# Sveikatos centras „Gilės“
+# (Uždaroji akcinė bendrovė sveikatos centras „Gilės“)
